@@ -1,0 +1,5 @@
+.pokemon, .pokemon__items {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
